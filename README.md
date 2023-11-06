@@ -1,2 +1,2 @@
-# portfolio-website
+# Code Lab website
 
